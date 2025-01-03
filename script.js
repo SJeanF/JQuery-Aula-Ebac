@@ -21,7 +21,7 @@ $(document).ready(function() {
             </div>"'`).appendTo(novoItem)
         $(novoItem).appendTo('ul')
         $(novoItem).fadeIn()
-        $('endereco-nova-imagem').val() = ''
+        $('#endereco-nova-imagem').val() = ''
 
     })
 })
